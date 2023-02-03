@@ -1,5 +1,5 @@
 # NEEL-RAVAL
-for more information about me 
+
 <h1 align="center">Hi 👋, I'm Neel Raval</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align = "right" alt="coding" width="300" hight="300" src= "https://media.tenor.com/BNdrdkM3wJkAAAAd/webmaster-website.gif"
