@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Neel Raval</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align = "right" alt="coding" width="500" hight="300" src= "https://media.tenor.com/BNdrdkM3wJkAAAAd/webmaster-website.gif"
+<img align = "right" alt="coding" width="500" hight="200" src= "https://media.tenor.com/BNdrdkM3wJkAAAAd/webmaster-website.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neelraval&label=Profile%20views&color=0e75b6&style=flat" alt="neelraval" /> </p>
 
