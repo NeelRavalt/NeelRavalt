@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neelraval&label=Profile%20views&color=0e75b6&style=flat" alt="neelraval" /> </p>
 
-- 🔭 I’m currently working on **Reactjs**
+- 🔭 I’m currently working on **Websites**
 
 - 🌱 I’m currently learning **Reactjs,c++**
 
