@@ -25,6 +25,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neelravalt&" alt="neelravalt" /></p>
 
-<img src="https://raw.githubusercontent.com/NeelRavalt/NeelRavalt/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <a href="https://open.spotify.com/user/31roemj3gpttzfiqavjwixgl65e4">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31roemj3gpttzfiqavjwixgl65e4&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
