@@ -25,3 +25,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neelravalt&" alt="neelravalt" /></p>
 
+<img src="https://raw.githubusercontent.com/NeelRavalt/NeelRavalt/output/snake.svg" alt="Snake animation" />
+
+###
