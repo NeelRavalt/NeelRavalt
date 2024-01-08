@@ -32,6 +32,4 @@
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/NeelRavalt/NeelRavalt/output/snake.svg" alt="Snake animation" />
 
-###
