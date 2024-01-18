@@ -13,9 +13,14 @@
 
 - 🔭 I’m currently working on **Websites**
 
-- 🌱 I’m currently learning **Reactjs,c++**
+- 🌱 I have experience of  **Reactjs,Angular**
+  <img align = "right" width="500" src="https://media.licdn.com/dms/image/C4E12AQFva6uNkZrDbQ/article-cover_image-shrink_600_2000/0/1592585405954?e=2147483647&v=beta&t=59m-8JFGcgxLpq07okNUmtVUHBJHV8TVlz0NFDeXyQ4" alt="Coding" />
+  
+  
 
 <h3 align="left">Connect with me:</h3>
+
+
 <p align="left">
 <a href=https://www.linkedin.com/in/neel-raval-a1b18b225 target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neel raval" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/neel_raval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="neel_raval" height="30" width="40" /></a>
