@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **Websites**
 
-- 🌱 I have experience of  **Reactjs, Angular**
+- 🌱 I have experience of  **Reactjs, Doceker, Ansible, Kubernates, AWS, Jenkins, AngularJs**
   
   
 
