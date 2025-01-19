@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Neelkumar Raval</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NeelRavalt&label=Profile%20views&color=0e75b6&style=flat" alt="Neelraval" /> </p>
 
@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **Websites**
 
-- 🌱 I have experience of  **Reactjs, Doceker, Ansible, Kubernates, AWS, Jenkins, AngularJs**
+- 🌱 I have experience of  **Reactjs, Docker, Ansible, Kubernates, AWS, Jenkins, AngularJs**
   
   
 
