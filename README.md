@@ -1,7 +1,6 @@
 
 
 <h1 align="center">Hi 👋, I'm Neelkumar Raval</h1>
-<h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NeelRavalt&label=Profile%20views&color=0e75b6&style=flat" alt="Neelraval" /> </p>
 
@@ -12,9 +11,9 @@
   <img align = "right" width="400" src="https://media.licdn.com/dms/image/C4E12AQFva6uNkZrDbQ/article-cover_image-shrink_600_2000/0/1592585405954?e=2147483647&v=beta&t=59m-8JFGcgxLpq07okNUmtVUHBJHV8TVlz0NFDeXyQ4" alt="Coding" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NeelRavalt&label=Profile%20views&color=0e75b6&style=flat" alt="neelraval" /> </p>
 
-- 🔭 I’m currently working on **Websites**
+- 🔭 I’m currently working on **Jenkins ci-cd pipeline**
 
-- 🌱 I have experience of  **Reactjs, Docker, Ansible, Kubernates, AWS, Jenkins, AngularJs**
+- 🌱 I have experience of  **Reactjs, Docker, Ansible, Kubernates, AWS, Jenkins, Terraform**
   
   
 
